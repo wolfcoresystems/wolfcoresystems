@@ -9,7 +9,7 @@ const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE;
 const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE;
 const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC;
 
-export function contactenos() {
+export function Contactenos() {
   const [enviado, setEnviado] = useState(false);
   const [cargando, setCargando] = useState(false);
 
