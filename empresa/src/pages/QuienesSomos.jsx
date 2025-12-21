@@ -18,7 +18,7 @@ import { BotonPortafolio } from "../components/BotonPortafolio";
 import { Helmet } from "react-helmet-async";
 import { motion } from "framer-motion";
 
-export function Quienessomos() {
+export function QuienesSomos() {
   return (
     <>
       {/* ================= SEO Nosotros ================= */}
