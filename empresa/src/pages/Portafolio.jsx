@@ -75,11 +75,11 @@ export function Portafolio() {
 
   return (
     <>
-      {/* ================= SEO PORTAFOLIO ================= */}
+      {/* ================= SEO portafolio ================= */}
       <Helmet>
         {/* TITLE */}
         <title>
-          Portafolio de Proyectos | Wolf Core Systems – Ingeniería de Software
+          portafolio de Proyectos | Wolf Core Systems – Ingeniería de Software
         </title>
 
         {/* DESCRIPTION */}
@@ -91,13 +91,13 @@ export function Portafolio() {
         {/* CANONICAL */}
         <link
           rel="canonical"
-          href="https://wolfcoresystems.com/Portafolio"
+          href="https://wolfcoresystems.com/portafolio"
         />
 
         {/* ================= OPEN GRAPH ================= */}
         <meta
           property="og:title"
-          content="Portafolio Wolf Core Systems | Proyectos de Ingeniería Digital"
+          content="portafolio Wolf Core Systems | Proyectos de Ingeniería Digital"
         />
         <meta
           property="og:description"
@@ -106,7 +106,7 @@ export function Portafolio() {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://wolfcoresystems.com/Portafolio"
+          content="https://wolfcoresystems.com/portafolio"
         />
         <meta
           property="og:image"
@@ -120,7 +120,7 @@ export function Portafolio() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Portafolio Wolf Core Systems | Proyectos Reales"
+          content="portafolio Wolf Core Systems | Proyectos Reales"
         />
         <meta
           name="twitter:description"
@@ -137,10 +137,10 @@ export function Portafolio() {
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
-      "@id": "https://wolfcoresystems.com/Portafolio",
-      "name": "Portafolio de Proyectos | Wolf Core Systems",
+      "@id": "https://wolfcoresystems.com/portafolio",
+      "name": "portafolio de Proyectos | Wolf Core Systems",
       "description": "Colección de proyectos desarrollados por Wolf Core Systems en desarrollo web, software a la medida, e-commerce y aplicaciones escalables.",
-      "url": "https://wolfcoresystems.com/Portafolio",
+      "url": "https://wolfcoresystems.com/portafolio",
       "isPartOf": {
         "@type": "WebSite",
         "name": "Wolf Core Systems",
@@ -158,7 +158,7 @@ export function Portafolio() {
     `}
         </script>
       </Helmet>
-      {/* ================= FIN SEO PORTAFOLIO ================= */}
+      {/* ================= FIN SEO portafolio ================= */}
 
 
 
@@ -327,7 +327,7 @@ export function Portafolio() {
 
             {/* BOTÓN MASTER CTA */}
             <Link
-              to="/Portafolio"
+              to="/portafolio"
               className="inline-flex items-center justify-center
                      px-12 py-5
                      bg-[#00FFFF] text-black

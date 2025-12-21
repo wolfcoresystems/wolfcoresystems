@@ -13,7 +13,7 @@ export function Servicios() {
       <Helmet>
         {/* ================= BASIC SEO ================= */}
         <title>
-          Servicios de Desarrollo Web y Software a la Medida | Wolf Core Systems
+          servicios de Desarrollo Web y Software a la Medida | Wolf Core Systems
         </title>
 
         <meta
@@ -34,7 +34,7 @@ export function Servicios() {
         {/* ================= OPEN GRAPH ================= */}
         <meta
           property="og:title"
-          content="Servicios de Ingeniería Digital | Wolf Core Systems"
+          content="servicios de Ingeniería Digital | Wolf Core Systems"
         />
         <meta
           property="og:description"
@@ -57,7 +57,7 @@ export function Servicios() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Servicios de Desarrollo Web y Software | Wolf Core Systems"
+          content="servicios de Desarrollo Web y Software | Wolf Core Systems"
         />
         <meta
           name="twitter:description"
@@ -74,7 +74,7 @@ export function Servicios() {
         {
           "@context": "https://schema.org",
           "@type": "Service",
-          "serviceType": "Servicios de Desarrollo de Software",
+          "serviceType": "servicios de Desarrollo de Software",
           "provider": {
             "@type": "Organization",
             "name": "Wolf Core Systems",
@@ -87,7 +87,7 @@ export function Servicios() {
           },
           "hasOfferCatalog": {
             "@type": "OfferCatalog",
-            "name": "Servicios Wolf Core Systems",
+            "name": "servicios Wolf Core Systems",
             "itemListElement": [
               {
                 "@type": "Offer",
@@ -157,7 +157,7 @@ export function Servicios() {
           </div>
         </div>
 
-        {/* ================= SERVICIOS ================= */}
+        {/* ================= servicios ================= */}
 
         <ServiceBlock
           id="web"
@@ -193,7 +193,7 @@ export function Servicios() {
           title="Software y Sistemas a la Medida / Webs Corporativas"
           focus="Automatización y lógica de negocio."
           target="Una solución digital integral para empresas que buscan fortalecer su presencia online y optimizar sus procesos internos.
-                Desarrollamos sitios web corporativos sólidos, claros y estratégicos, con secciones clave como Quiénes Somos, Servicios, Portafolio y Contacto, pensadas para comunicar confianza y profesionalismo.
+                Desarrollamos sitios web corporativos sólidos, claros y estratégicos, con secciones clave como Quiénes Somos, servicios, Portafolio y Contacto, pensadas para comunicar confianza y profesionalismo.
 
                 La solución se complementa con software a la medida, diseñado según las necesidades específicas de tu negocio, permitiendo automatizar procesos, gestionar información y escalar operaciones de forma eficiente.
 

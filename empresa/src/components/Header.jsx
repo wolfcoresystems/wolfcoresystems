@@ -45,16 +45,16 @@ export function Header() {
                         <NavLink to="/" className="text-xl text-textoprincipal hover:text-cian font-medium">
                             Inicio
                         </NavLink>
-                        <NavLink to="/QuienesSomos" className="text-xl text-textoprincipal hover:text-cian font-medium">
+                        <NavLink to="/quienessomos" className="text-xl text-textoprincipal hover:text-cian font-medium">
                             Nosotros
                         </NavLink>
-                        <NavLink to="/Servicios" className="text-xl text-textoprincipal hover:text-cian font-medium">
+                        <NavLink to="/servicios" className="text-xl text-textoprincipal hover:text-cian font-medium">
                             Servicios
                         </NavLink>
-                        <NavLink to="/Portafolio" className="text-xl text-textoprincipal hover:text-cian font-medium">
+                        <NavLink to="/portafolio" className="text-xl text-textoprincipal hover:text-cian font-medium">
                             Portafolio
                         </NavLink>
-                        <NavLink to="/Contactenos" className="text-xl text-textoprincipal hover:text-cian font-medium">
+                        <NavLink to="/contactenos" className="text-xl text-textoprincipal hover:text-cian font-medium">
                             Contáctenos
                         </NavLink>
                     </nav>
@@ -91,28 +91,28 @@ export function Header() {
                             Inicio
                         </NavLink>
                         <NavLink
-                            to="/QuienesSomos"
+                            to="/quienessomos"
                             onClick={() => setOpen(false)}
                             className="block text-textoprincipal font-medium"
                         >
                             Quienes Somos
                         </NavLink>
                         <NavLink
-                            to="/Servicios"
+                            to="/servicios"
                             onClick={() => setOpen(false)}
                             className="block text-textoprincipal font-medium"
                         >
                             Servicios
                         </NavLink>
                         <NavLink
-                            to="/Portafolio"
+                            to="/portafolio"
                             onClick={() => setOpen(false)}
                             className="block text-textoprincipal font-medium"
                         >
                             Portafolio
                         </NavLink>
                         <NavLink
-                            to="/Contactenos"
+                            to="/contactenos"
                             onClick={() => setOpen(false)}
                             className="block text-textoprincipal font-medium"
                         >

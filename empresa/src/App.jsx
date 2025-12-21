@@ -26,10 +26,10 @@ export function App() {
       <main className='pt-28 min-h-screen'>
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/Servicios' element={<Servicios />} />
-          <Route path='/QuienesSomos' element={<QuienesSomos />} />
-          <Route path='/Contactenos' element={<Contactenos />} />
-          <Route path='/Portafolio' element={<Portafolio />} />
+          <Route path='/servicios' element={<Servicios />} />
+          <Route path='/quienesSomos' element={<QuienesSomos />} />
+          <Route path='/contactenos' element={<Contactenos />} />
+          <Route path='/portafolio' element={<Portafolio />} />
         </Routes>
       </main>
 

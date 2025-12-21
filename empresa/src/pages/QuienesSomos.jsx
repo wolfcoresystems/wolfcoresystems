@@ -18,7 +18,7 @@ import { BotonPortafolio } from "../components/BotonPortafolio";
 import { Helmet } from "react-helmet-async";
 import { motion } from "framer-motion";
 
-export function QuienesSomos() {
+export function Quienessomos() {
   return (
     <>
       {/* ================= SEO Nosotros ================= */}
@@ -34,7 +34,7 @@ export function QuienesSomos() {
 
         <link
           rel="canonical"
-          href="https://wolfcoresystems.com/QuienesSomos"
+          href="https://wolfcoresystems.com/quienessomos"
         />
 
         {/* Open Graph */}
@@ -49,7 +49,7 @@ export function QuienesSomos() {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://wolfcoresystems.com/QuienesSomos"
+          content="https://wolfcoresystems.com/quienessomos"
         />
         <meta
           property="og:image"
@@ -78,8 +78,8 @@ export function QuienesSomos() {
         {
           "@context": "https://schema.org",
           "@type": "AboutPage",
-          "@id": "https://wolfcoresystems.com/QuienesSomos",
-          "url": "https://wolfcoresystems.com/QuienesSomos",
+          "@id": "https://wolfcoresystems.com/quienessomos",
+          "url": "https://wolfcoresystems.com/quienessomos",
           "name": "Nosotros | Wolf Core Systems",
           "description": "Conoce la filosofía, valores y enfoque de ingeniería de Wolf Core Systems, empresa especializada en desarrollo web, software a la medida y soluciones digitales escalables.",
           "about": {
