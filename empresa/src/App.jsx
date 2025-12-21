@@ -6,7 +6,7 @@ import { Servicios } from './pages/Servicios.jsx'
 import { QuienesSomos } from './pages/QuienesSomos.jsx'
 import { Contactenos } from './pages/Contactenos.jsx'
 import { Portafolio } from './pages/Portafolio.jsx'
-import { Footer } from './components/footer.jsx'
+import { Footer } from './components/Footer.jsx'
 import { ScrollToTop } from "./components/ScrollToTop.jsx";
 import './App.css'
 import { Header } from './components/Header.jsx'

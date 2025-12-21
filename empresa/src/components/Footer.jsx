@@ -6,7 +6,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 export function Footer() {
     return (
-        <footer className="w-full bg-fondo py-12">
+        <div className="w-full bg-fondo py-12">
             
             <div
                 className="max-w-6xl mx-auto
@@ -82,7 +82,7 @@ export function Footer() {
                     </a>
                 </div>
             </div>
-        </footer>
+        </div>
 
     )
 }
