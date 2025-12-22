@@ -165,7 +165,7 @@ export function Servicios() {
           title="Desarrollo Web / Landing Pages"
           focus="Velocidad, SEO y conversión."
           target="Una opción ideal para profesionales, emprendedores y pequeñas empresas que buscan una presencia en línea atractiva y efectiva. Incluye un diseño moderno y adaptable a dispositivos móviles, botones de llamada a la acción claros, formularios de contacto, presentación de servicios o productos y SEO básico para mejorar la visibilidad y el engagement."
-          price="$800 USD"
+          price="$200 USD"
           items={[
             "certificado SSL incluido.",
             "Diseño UI/UX moderno.",
@@ -198,7 +198,7 @@ export function Servicios() {
                 La solución se complementa con software a la medida, diseñado según las necesidades específicas de tu negocio, permitiendo automatizar procesos, gestionar información y escalar operaciones de forma eficiente.
 
                 Incluye diseño moderno y profesional, optimización SEO, gestión de contenidos, funcionalidades interactivas y una arquitectura tecnológica preparada para crecer junto a tu empresa, mejorando la credibilidad, la experiencia del cliente y los resultados del negocio."
-          price="$2,500 USD"
+          price="$1,500 USD"
           items={[
             "CRMs y ERPs personalizados.",
             "Automatización de procesos.",
@@ -228,7 +228,7 @@ export function Servicios() {
           title="E-commerce"
           focus="Vender más en cualquier lugar."
           target="Ideal para negocios que desean vender productos en línea. Incluye una plataforma de e-commerce intuitiva, carrito de compras, integración con pagos seguros, gestión de inventario, y un panel de administración fácil de usar."
-          price="$1,200 USD"
+          price="$1,100 USD"
           items={[
             "Pasarelas de pago.",
             "Gestión de productos.",
