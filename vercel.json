@@ -1,8 +1,27 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "has": [
+        {
+          "type": "host",
+          "value": "wolfcoresystems.com"
+        }
+      ],
+      "destination": "https://www.wolfcoresystems.com/$1",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, no-cache, must-revalidate, proxy-revalidate"
+        }
+      ]
     }
   ]
 }
+
